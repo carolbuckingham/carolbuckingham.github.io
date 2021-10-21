@@ -1,6 +1,6 @@
 /* Here lies my CSS stylesheet*/
 /* I created a whole colour palette for my site */
-/* https://coolors.co/011638-475873-8d99ae-bdb0a5-edc79b-6b0504 */
+/* https://coolors.co/010916-011638-475873-8d99ae-bdb0a5-edc79b-6b0504 */
 body {
   background-color: #8D99AE;
 }
@@ -11,23 +11,30 @@ img {
 h1 {
 	text-align: center;
 	color: #011638;
+/* I want my text to look fancy and mystical but still readable */
+	font.family: Garamond, Baskerville, serif;
 }
 h2 {
 	text-align: center;
 	color: #011638;
+	font.family: Garamond, Baskerville, serif;
 }
 h3 {
 	text-align: center;
 	color: #011638;
+	font.family: Garamond, Baskerville, serif;
 }
-/* I want the gender identity to be a different colour to pop off the page a bit */
+/* I want the gender identity to be a different colour to pop off the page a bit, but I did also want to keep the smaller font */
 h5 {
 	text-align: center;
 	color: #6B0504;
+	font.family: Garamond, Baskerville, serif;
 }
+/* I want the main text to be a bit darker in contrast to the headings */
 p {
 	text-align: center;
-	color: #011638;
+	color: #010916;
+	font.family: Garamond, Baskerville, serif;
 }
 /* formatting for the navbar! */
 /* www.w3schools.com/css/css_navbar.asp ; ../css_navbar_horizontal.asp */
